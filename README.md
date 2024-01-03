@@ -1,6 +1,6 @@
 # Pocketbase on Railway
 
-Dockerise pocketbase[pb].
+Dockerised [Pocketbase][pb].
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/XfUmjI?referralCode=faraz)
 
